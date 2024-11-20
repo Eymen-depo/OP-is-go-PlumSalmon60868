@@ -8,7 +8,7 @@ let botConnected = false; // Bot bağlantı durumu
 // Bot yapılandırma ayarları
 const config = {
   botAccount: {
-    username: "MujluPuding",
+    username: "TeaKettle",
     password: "fake3",
     type: "legacy"
   },
@@ -26,8 +26,8 @@ const config = {
       enabled: true,
       messages: [      
         { text: "/is accept EymanBey", delay: 10 },
-        { text: "/skyblock", delay: 5 },
-        { text: "/is go Oyuntozu51", delay: 10 },                  
+        { text: "/opskyblock", delay: 5 },
+        { text: "/is go PlumSalmon60868", delay: 10 },                  
         { text: "/home 1", delay: 15 }
       ]
     },
